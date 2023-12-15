@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <centros>
     <centros>
-        <distancia>DISTANCIA</distancia>
-        <provincia>PROVINCIA</provincia>
-        <localidad>LOCALIDAD</localidad>
-        <codigo>CODIGO</codigo>
-        <denomCorta>DENOM.CORTA</denomCorta>
-        <nombre>NOMBRE</nombre>
-        <denomincion>DENOMINACION</denomincion>
-        <direccion>DIRECCION</direccion>
-        <naturaleza>NATURALEZA</naturaleza>
-        <telefono>TELEFONO</telefono>
-        <correoElectronico>CORREO ELECTRONICO</correoElectronico>
-        <codigoPostal>WEB</codigoPostal>
-    </centros>
-    <centros>
         <distancia>0.0</distancia>
         <provincia>Teruel</provincia>
         <localidad>Teruel</localidad>

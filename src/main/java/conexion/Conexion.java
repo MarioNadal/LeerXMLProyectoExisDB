@@ -39,6 +39,7 @@ public class Conexion {
             } else {
                 System.out.println("Conexión OK.");try{
                     List<String> lineas = Files.readAllLines(Path.of("src/main/resources/CentrosCFGMyS.csv"));
+                    lineas.remove(lineas.get(0));
                     ArrayList<Centro> centrosLista = new ArrayList<>();
                     Centros centros = new Centros();
                     for(String linea: lineas){
