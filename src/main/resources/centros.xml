@@ -1,0 +1,2789 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<centros>
+    <centros>
+        <distancia>DISTANCIA</distancia>
+        <provincia>PROVINCIA</provincia>
+        <localidad>LOCALIDAD</localidad>
+        <codigo>CODIGO</codigo>
+        <denomCorta>DENOM.CORTA</denomCorta>
+        <nombre>NOMBRE</nombre>
+        <denomincion>DENOMINACION</denomincion>
+        <direccion>DIRECCION</direccion>
+        <naturaleza>NATURALEZA</naturaleza>
+        <telefono>TELEFONO</telefono>
+        <correoElectronico>CORREO ELECTRONICO</correoElectronico>
+        <codigoPostal>WEB</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003247</codigo>
+        <denomCorta>FRANCÉS DE ARANDA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. ATARAZANAS</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 25 42</telefono>
+        <correoElectronico>iesfrateruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://e-ducativa.catedu.es/44003247</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Calatayud</localidad>
+        <codigo>50001179</codigo>
+        <denomCorta>EMILIO JIMENO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Río Perejiles</denomincion>
+        <direccion> 2</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 881 009</telefono>
+        <correoElectronico>iesejcalatayud@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.emiliojimeno.edu.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011793</codigo>
+        <denomCorta>ARTE-MISS ZARAGOZA</denomCorta>
+        <nombre> CENTRO 1</nombre>
+        <denomincion>Centro Privado de Formación Profesional Específica</denomincion>
+        <direccion>Cl. Padre Manjón</direccion>
+        <naturaleza> 38-40</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>976 33 11 88</correoElectronico>
+        <codigoPostal>educacion@arte-miss.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Barbastro</localidad>
+        <codigo>22000809</codigo>
+        <denomCorta>HERMANOS ARGENSOLA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del Cinca</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 31 17 38</telefono>
+        <correoElectronico>ieshabarbastro@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ieshabar.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44010011</codigo>
+        <denomCorta>ESCUELA DE HOSTELERÍA Y TURISMO DE TERUEL</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Mariano Muñoz Nogués</denomincion>
+        <direccion> 11-13</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 01 35</telefono>
+        <correoElectronico>esuhosteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.educa.aragob.es/eshoster/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007236</codigo>
+        <denomCorta>SALESIANO NTRA. SRA.DEL PILAR</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. María Auxiliadora</denomincion>
+        <direccion> 57</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 30 68 78</telefono>
+        <correoElectronico>secretaria.zaragoza@salesianos.edu</correoElectronico>
+        <codigoPostal>http://zaragoza.salesianos.edu/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007716</codigo>
+        <denomCorta>SAN VALERO</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>Cl. Violeta Parra</denomincion>
+        <direccion> 9</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 46 65 99</telefono>
+        <correoElectronico>infoces@svalero.es</correoElectronico>
+        <codigoPostal>http://www.sanvalero.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zuera</localidad>
+        <codigo>50008629</codigo>
+        <denomCorta>E.F.A. EL SALTO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Ctra. de Huesca</denomincion>
+        <direccion> N. 330</direccion>
+        <naturaleza> Km. 529</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>976 68 03 70</correoElectronico>
+        <codigoPostal>elsalto@efasdearagon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50008642</codigo>
+        <denomCorta>MARÍA MOLINER</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. San Vicente Ferrer</denomincion>
+        <direccion> 6</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 33 18 03</telefono>
+        <correoElectronico>iesmmozaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ies-mariamoliner.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50008654</codigo>
+        <denomCorta>CEFOR IZQUIERDO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Avda. Tenor Fleta</denomincion>
+        <direccion> 57 (Pasaje)</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 48 62 71</telefono>
+        <correoElectronico>ciclos@izquierdofp.es</correoElectronico>
+        <codigoPostal>http://www.izquierdofp.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Tauste</localidad>
+        <codigo>50008770</codigo>
+        <denomCorta>RÍO ARBA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del Pilar</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 85 40 20</telefono>
+        <correoElectronico>iestauste@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesrioarba.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50009051</codigo>
+        <denomCorta>PLUS ULTRA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Gran Via</denomincion>
+        <direccion> 11</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 22 61 44</telefono>
+        <correoElectronico>centro@plusultraformacion.com</correoElectronico>
+        <codigoPostal>http://www.plusultraformacion.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Ejea de los Caballeros</localidad>
+        <codigo>50009129</codigo>
+        <denomCorta>CINCO VILLAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º DE LA CONSTITUCIÓN</denomincion>
+        <direccion> 122-124-126</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 66 00 08</telefono>
+        <correoElectronico>iescvejea@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iescincovillas.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50009166</codigo>
+        <denomCorta>JOSÉ MANUEL BLECUA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Cuarta Avenida</denomincion>
+        <direccion> 13</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 25 86 20</telefono>
+        <correoElectronico>iesjmbzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesblecua.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50017503</codigo>
+        <denomCorta>OCÉANO ATLÁNTICO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Avda. Ranillas</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza> edificio 3D</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>976 10 64 51</correoElectronico>
+        <codigoPostal>info@oceanoatlantico.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019901</codigo>
+        <denomCorta>MEDAC STADIUM VENECIA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion> Calle Fray Julián Garcés</denomincion>
+        <direccion> número 100</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>876 50 88 42</telefono>
+        <correoElectronico>zaragoza.stadium@medac.es</correoElectronico>
+        <codigoPostal>https://medac.es/fp-zaragoza/calle-fray-julian-garces-100</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019767</codigo>
+        <denomCorta>CESUR ZARAGOZA</denomCorta>
+        <nombre>Centro Privado Integrado de Formación Profesional</nombre>
+        <denomincion>Avenida de Ranillas</denomincion>
+        <direccion> número 5C</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>876 25 98 24 </telefono>
+        <correoElectronico>cesurzaragoza@cesurformacion.com</correoElectronico>
+        <codigoPostal>http://www.cesurformacion.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Mequinenza</localidad>
+        <codigo>50009221</codigo>
+        <denomCorta>SANTA AGATOCLIA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Ctra. De Fraga</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>974 46 42 11</telefono>
+        <correoElectronico>colegiosantaagatoclia@gmail.com</correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Fuentes de Ebro</localidad>
+        <codigo>50009543</codigo>
+        <denomCorta>BENJAMÍN JARNÉS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Agustina De Aragón</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 16 08 87</telefono>
+        <correoElectronico>iesfuentes@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesfuent.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50009567</codigo>
+        <denomCorta>RÍO GÁLLEGO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Río Piedra</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 58 81 70</telefono>
+        <correoElectronico>iesrgazaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.riogallego.com/html/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zuera</localidad>
+        <codigo>50009592</codigo>
+        <denomCorta>GALLICUM</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cami. De San Juan</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 68 03 41</telefono>
+        <correoElectronico>ieszuera@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.gallicum.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50009889</codigo>
+        <denomCorta>ACADEMIA MARCO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Conde De Aranda</denomincion>
+        <direccion> 7-9</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 44 16 99</telefono>
+        <correoElectronico>info@academiamarco.com</correoElectronico>
+        <codigoPostal>http://www.academiamarco.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Alagón</localidad>
+        <codigo>50010028</codigo>
+        <denomCorta>ALAÚN</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Ramón Y Cajal</denomincion>
+        <direccion> 10</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 61 13 74</telefono>
+        <correoElectronico>centroalaun@alaun.es</correoElectronico>
+        <codigoPostal>http://www.centroalaun.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Utebo</localidad>
+        <codigo>50010041</codigo>
+        <denomCorta>PEDRO CERRADA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Las Fuentes</denomincion>
+        <direccion> 14</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 77 42 55</telefono>
+        <correoElectronico>iesutebo@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesutebo.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010144</codigo>
+        <denomCorta>PABLO SERRANO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. BATALLA DE LEPANTO</denomincion>
+        <direccion> 30</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 49 10 15</telefono>
+        <correoElectronico>iespsezaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iespabloserrano.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22010153</codigo>
+        <denomCorta>ARTE-MISS HUESCA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Alcalde Carderera</denomincion>
+        <direccion> 3</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>974 21 53 21</telefono>
+        <correoElectronico>educacion@arte-miss.com</correoElectronico>
+        <codigoPostal>http://www.arte-miss.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>San Blas</localidad>
+        <codigo>44003028</codigo>
+        <denomCorta>DE SAN BLAS</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Bo. San Blas</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 61 88 20</telefono>
+        <correoElectronico>ifpeteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ifpesanblas.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003211</codigo>
+        <denomCorta>SANTA EMERENCIANA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. Juez Villanueva</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 62 05 64</telefono>
+        <correoElectronico>iessemteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.ies.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003223</codigo>
+        <denomCorta>SEGUNDO DE CHOMÓN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. PABLO MONGUIÓ</denomincion>
+        <direccion> 48</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 13 21</telefono>
+        <correoElectronico>iesschteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesch.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Caspe</localidad>
+        <codigo>50011732</codigo>
+        <denomCorta>MAR DE ARAGÓN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. JOSÉ  MARÍA  ALBAREDA</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 63 02 08</telefono>
+        <correoElectronico>iescaspe@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesmardearagon.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22002491</codigo>
+        <denomCorta>MONTEARAGÓN</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Ctra. De Sariñena</denomincion>
+        <direccion>  Km. 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 24 26 73</telefono>
+        <correoElectronico>cpifpmontearagon@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://cpifpmontearagon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22002508</codigo>
+        <denomCorta>RAMÓN Y CAJAL</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. De La Paz</denomincion>
+        <direccion>  9</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 22 04 36</telefono>
+        <correoElectronico>iesrychuesca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesrychu.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22002521</codigo>
+        <denomCorta>SIERRA DE GUARA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Ramón J. Sender</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 24 34 77</telefono>
+        <correoElectronico>iessguhuesca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iessierradeguara.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Tarazona</localidad>
+        <codigo>50011513</codigo>
+        <denomCorta>TUBALCAÍN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. La Paz</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 64 29 15</telefono>
+        <correoElectronico>iestarazona@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iestubalcain.net</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011525</codigo>
+        <denomCorta>MIGUEL CATALÁN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º Isabel La Católica</denomincion>
+        <direccion> 3</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 40 20 04</telefono>
+        <correoElectronico>iesmcazaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.ies-mcatalan.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011574</codigo>
+        <denomCorta>CPA-SALDUIE</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>AVDA. RAMÓN SAÍNZ DE VARANDA 1-3</denomincion>
+        <direccion>Privado</direccion>
+        <naturaleza>976 52 27 41</naturaleza>
+        <telefono>info@cpasalduie.com</telefono>
+        <correoElectronico>http://www.cpasalduie.com</correoElectronico>
+        <codigoPostal>50009</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006414</codigo>
+        <denomCorta>VIRGEN DEL PILAR</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º Reyes De Aragón</denomincion>
+        <direccion> 20</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 30 60 09</telefono>
+        <correoElectronico>iesvdpzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesvirgendelpilar.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006529</codigo>
+        <denomCorta>EL BUEN PASTOR</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Monzón</denomincion>
+        <direccion> 27</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 27 37 62</telefono>
+        <correoElectronico>secretaria@elbuenpastorzaragoza.net</correoElectronico>
+        <codigoPostal>http://www.elbuenpastorzaragoza.net</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006581</codigo>
+        <denomCorta>COLEGIO MONTESSORI</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Lagasca</denomincion>
+        <direccion> 25-27</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 30 61 00</telefono>
+        <correoElectronico>administracion@colegiomontessori.com</correoElectronico>
+        <codigoPostal>http://colegiomontessori.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006761</codigo>
+        <denomCorta>ESCOLAPIAS SANTA ENGRACIA</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cami. De Miraflores</denomincion>
+        <direccion> 23</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 37 10 68</telefono>
+        <correoElectronico>miraflores@fe-escolapias.org</correoElectronico>
+        <codigoPostal>http://www.escolapiasmiraflores.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Calanda</localidad>
+        <codigo>44005104</codigo>
+        <denomCorta>VALLE DEL GUADALOPE</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º Alcañiz</denomincion>
+        <direccion> 27</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 84 60 02</telefono>
+        <correoElectronico>iescalanda@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesvalledelguadalope.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Almunia de Doña Godina (La)</localidad>
+        <codigo>50000412</codigo>
+        <denomCorta>SALESIANOS LAVIAGA-CASTILLO</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>Cl. María Auxiliadora</denomincion>
+        <direccion> 12</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 81 24 20</telefono>
+        <correoElectronico>secretaria.laalmunia@salesianos.edu</correoElectronico>
+        <codigoPostal>http://www.salesianos.edu/laalmunia</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Borja</localidad>
+        <codigo>50000874</codigo>
+        <denomCorta>JUAN DE LANUZA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Capuchinos</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 86 73 68</telefono>
+        <correoElectronico>iesborja@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesjuandelanuza.catedu.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Fraga</localidad>
+        <codigo>22004888</codigo>
+        <denomCorta>BAJO CINCA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Río Cinca</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 45 38 60</telefono>
+        <correoElectronico>iesbcfraga@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://e-ducativa.catedu.es/22004888</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Puebla de Alfindén (La)</localidad>
+        <codigo>50018842</codigo>
+        <denomCorta>LA PUEBLA DE ALFINDÉN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. de Pastriz 2</denomincion>
+        <direccion>Publico</direccion>
+        <naturaleza>976 10 76 02</naturaleza>
+        <telefono>ieslapuebla@educa.aragon.es</telefono>
+        <correoElectronico>https://ieslapuebladealfinden.wordpress.com/</correoElectronico>
+        <codigoPostal>50171</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50018829</codigo>
+        <denomCorta>CORONA DE ARAGÓN</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Corona de Aragón</denomincion>
+        <direccion> 35</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 467 000</telefono>
+        <correoElectronico>cpifpcorona@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpicorona.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22010712</codigo>
+        <denomCorta>PIRÁMIDE</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>CAMI. DE CUARTE</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 21 01 02</telefono>
+        <correoElectronico>cpifppiramide@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpifppiramide.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Alcañiz</localidad>
+        <codigo>44010537</codigo>
+        <denomCorta>BAJO ARAGÓN</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>CL. José Pardo Sastrón</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 83 10 63</telefono>
+        <correoElectronico>cpifpbajoaragon@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpifpbajoaragon.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Villanueva de Gállego</localidad>
+        <codigo>50019147</codigo>
+        <denomCorta>FUNDACIÓN LABORAL DE LA CONSTRUCCIÓN</denomCorta>
+        <nombre>Centro Privado Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Isaac Newton</denomincion>
+        <direccion> 1 - Parcela 15</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 74 06 26</telefono>
+        <correoElectronico>lvillaluenga@fundacionlaboral.org</correoElectronico>
+        <codigoPostal>https://fp.fundacionlaboral.org/centros/aragon</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019640</codigo>
+        <denomCorta>FORMACCIONA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>CL. ASÍN Y PALACIOS</denomincion>
+        <direccion> 18</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976249622</telefono>
+        <correoElectronico>info@formacciona.com</correoElectronico>
+        <codigoPostal>http://www.formacciona.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Utrillas</localidad>
+        <codigo>44004550</codigo>
+        <denomCorta>FERNANDO LÁZARO CARRETER</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Miguel Servet</denomincion>
+        <direccion> 3</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 75 80 50</telefono>
+        <correoElectronico>iesutrillas@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesutril.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Andorra</localidad>
+        <codigo>44004653</codigo>
+        <denomCorta>PABLO SERRANO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. HERMANAS ZAPATA</denomincion>
+        <direccion>  8</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 84 21 62</telefono>
+        <correoElectronico>iesandorra@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesandorra.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019482</codigo>
+        <denomCorta>ARTE-MISS ZARAGOZA</denomCorta>
+        <nombre> CENTRO 2</nombre>
+        <denomincion>Centro Privado de Formación Profesional Específica</denomincion>
+        <direccion>C/ Gran Vía</direccion>
+        <naturaleza> 22</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico></correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Calatayud</localidad>
+        <codigo>50019381</codigo>
+        <denomCorta>ANDRÉS GARDE ERIKSON</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Polígono Mediavega</denomincion>
+        <direccion> 2-3</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono></telefono>
+        <correoElectronico></correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22011081</codigo>
+        <denomCorta>ACF INNOVE</denomCorta>
+        <nombre>Centro Privado de Formación Profesional</nombre>
+        <denomincion>Polígono Magantina</denomincion>
+        <direccion> calle Comercio</direccion>
+        <naturaleza> número 28</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>974 28 87 60</correoElectronico>
+        <codigoPostal>info@acfinnove.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019974</codigo>
+        <denomCorta>MEDAC ZARAGOZA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional</nombre>
+        <denomincion> Calle Eduardo Jimeno Correas</denomincion>
+        <direccion> número 19.</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>876500761</telefono>
+        <correoElectronico>zaragoza@medac.es</correoElectronico>
+        <codigoPostal>http://www.medac.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50020010</codigo>
+        <denomCorta>OLIVÁN</denomCorta>
+        <nombre> TRANSPORTE Y FORMACIÓN</nombre>
+        <denomincion>Centro Privado de Formación Profesional</denomincion>
+        <direccion>Calle Pegaso</direccion>
+        <naturaleza> número 17</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>976328195</correoElectronico>
+        <codigoPostal>gestion@olivanformacion.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50020095</codigo>
+        <denomCorta>MEDAC EL OLIVAR</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Calle Argualas</denomincion>
+        <direccion> número 50</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono></telefono>
+        <correoElectronico></correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Sahún</localidad>
+        <codigo>22004943</codigo>
+        <denomCorta>NTRA. SRA. DE GUAYENTE</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>CL. SANTUARIO DE GUAYENTE</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>974 55 13 27</telefono>
+        <correoElectronico>escuelahosteleria@guayente.info</correoElectronico>
+        <codigoPostal>https://www.guayenteescueladehosteleria.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Sariñena</localidad>
+        <codigo>22005030</codigo>
+        <denomCorta>MONEGROS-GASPAR LAX</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cami. De Las Torres</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 57 11 14</telefono>
+        <correoElectronico>iessarinena@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://e-ducativa.catedu.es/22005030/sitio/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22005121</codigo>
+        <denomCorta>SAN LORENZO</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Madrid</denomincion>
+        <direccion> 2</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 24 36 33</telefono>
+        <correoElectronico>cpifpsanlorenzo@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.escuelahosteleria.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Fraga</localidad>
+        <codigo>22001917</codigo>
+        <denomCorta>RAMÓN J. SENDER</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º De La Constitución</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 47 01 44</telefono>
+        <correoElectronico>iesrsfraga@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesender.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Pina de Ebro</localidad>
+        <codigo>50003838</codigo>
+        <denomCorta>SANTA MARÍA DE LA ESPERANZA</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Rosales</denomincion>
+        <direccion> 2</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 16 50 47</telefono>
+        <correoElectronico>smesperanzape@planalfa.es</correoElectronico>
+        <codigoPostal>http://www.fundacionxafer.org/STA-MARIA-ESPERANZA/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Monzón</localidad>
+        <codigo>22003239</codigo>
+        <denomCorta>SANTO DOMINGO SAVIO</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>P.º SAN JUAN BOSCO</denomincion>
+        <direccion> 83-85</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>974 41 68 88</telefono>
+        <correoElectronico>colegio.monzon@salesianos.org</correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Monzón</localidad>
+        <codigo>22003288</codigo>
+        <denomCorta>JOSÉ MOR DE FUENTES</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del  Pueyo</denomincion>
+        <direccion> 89</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 40 16 30</telefono>
+        <correoElectronico>iesmonzon@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesmordefuentes.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Daroca</localidad>
+        <codigo>50010284</codigo>
+        <denomCorta>COMUNIDAD DE DAROCA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Barranco De Luzbel</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 80 20 72</telefono>
+        <correoElectronico>iesdaroca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://catedu.es/iesdaroca</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010314</codigo>
+        <denomCorta>LOS ENLACES</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Jarque De Moncayo</denomincion>
+        <direccion> 10</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 30 08 04</telefono>
+        <correoElectronico>cpilosenlaces@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpilosenlaces.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Pinseque</localidad>
+        <codigo>50003863</codigo>
+        <denomCorta>E.F.A. LA NORIA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>CL. PUENTE JUBO</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 61 71 55</telefono>
+        <correoElectronico>lanoria@efasdearagon.org</correoElectronico>
+        <codigoPostal>http://www.efasdearagon.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Movera</localidad>
+        <codigo>50005690</codigo>
+        <denomCorta>DE MOVERA</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Ctra. Pastriz</denomincion>
+        <direccion> Km. 3</direccion>
+        <naturaleza>6</naturaleza>
+        <telefono>Publico</telefono>
+        <correoElectronico>976 58 62 84</correoElectronico>
+        <codigoPostal>cpifpmovera@educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010156</codigo>
+        <denomCorta>MIRALBUENO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Vistabella</denomincion>
+        <direccion> 8</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 33 04 50</telefono>
+        <correoElectronico>iesmirzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesmiralbueno.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010168</codigo>
+        <denomCorta>CONDES DE ARAGÓN</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Condes De Aragón</denomincion>
+        <direccion> 9</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 35 48 80</telefono>
+        <correoElectronico>fpcondesdearagon@gmail.com</correoElectronico>
+        <codigoPostal>http://www.condesfp.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010491</codigo>
+        <denomCorta>SANTIAGO HERNÁNDEZ</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. De Navarra</denomincion>
+        <direccion> 141</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 32 42 00</telefono>
+        <correoElectronico>iesshezaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iessantiagohernandez.com/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010511</codigo>
+        <denomCorta>TIEMPOS MODERNOS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. CINEASTA SEGUNDO DE CHOMÓN</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 52 53 02</telefono>
+        <correoElectronico>iestiemposmodernos@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iestiemposmodernos.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Almunia de Doña Godina (La)</localidad>
+        <codigo>50010533</codigo>
+        <denomCorta>CABAÑAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Carrera De La Hilera</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 81 24 80</telefono>
+        <correoElectronico>iesalmunia@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesalmun.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010739</codigo>
+        <denomCorta>PILAR LORENGAR</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Miguel Asso</denomincion>
+        <direccion> 5</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 47 59 66</telefono>
+        <correoElectronico>iesplozaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iespilarlorengar.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010946</codigo>
+        <denomCorta>ANDALÁN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. París</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 28 19 43</telefono>
+        <correoElectronico>iesandzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesandza.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Illueca</localidad>
+        <codigo>50010961</codigo>
+        <denomCorta>SIERRA DE LA VIRGEN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. San Ildefonso</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 82 25 44</telefono>
+        <correoElectronico>iesillueca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iessierradelavirgen.catedu.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Épila</localidad>
+        <codigo>50011008</codigo>
+        <denomCorta>RODANAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. De La Estación</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 81 70 90</telefono>
+        <correoElectronico>iesepila@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesepila.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Pedrola</localidad>
+        <codigo>50011070</codigo>
+        <denomCorta>SIGLO XXI</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Virgen Del Pilar</denomincion>
+        <direccion>  S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 61 91 31</telefono>
+        <correoElectronico>iespedrola@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iespedro.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50005793</codigo>
+        <denomCorta>ÍTACA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda de los Estudiantes</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 57 24 26</telefono>
+        <correoElectronico>iesitazaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.e-itaca.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Ateca</localidad>
+        <codigo>50011252</codigo>
+        <denomCorta>ZAURÍN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º   Manubles</denomincion>
+        <direccion> 6</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 84 21 10</telefono>
+        <correoElectronico>iesateca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesateca.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Ejea de los Caballeros</localidad>
+        <codigo>50001829</codigo>
+        <denomCorta>E.F.A. BOALARES</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Carretera A-127</denomincion>
+        <direccion> km 37</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 66 14 56</telefono>
+        <correoElectronico>boalares@efasdearagon.es</correoElectronico>
+        <codigoPostal>http://www.efasdearagon.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Ejea de los Caballeros</localidad>
+        <codigo>50001830</codigo>
+        <denomCorta>REYES CATÓLICOS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. MARIANO ALASTUEY</denomincion>
+        <direccion> 26</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 66 06 45</telefono>
+        <correoElectronico>iesrcejea@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesreyescatolicos.catedu.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Calamocha</localidad>
+        <codigo>44004045</codigo>
+        <denomCorta>VALLE DEL JILOCA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Zaragoza</denomincion>
+        <direccion> 42</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 73 01 37</telefono>
+        <correoElectronico>iescalamocha@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iescalam.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Alcorisa</localidad>
+        <codigo>44005098</codigo>
+        <denomCorta>DAMIÁN FORMENT</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. MIGUEL DE CERVANTES</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 84 07 34</telefono>
+        <correoElectronico>iesalcorisate@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesalcorisa.es/index.php</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007017</codigo>
+        <denomCorta>MARÍA AUXILIADORA</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Mornés</denomincion>
+        <direccion> 14</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 27 27 50</telefono>
+        <correoElectronico>titularzaragoza@salesianas.org</correoElectronico>
+        <codigoPostal>http://www.mazaragoza.salesianas.net</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007492</codigo>
+        <denomCorta>LA SALLE-SANTO ANGEL</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>Cl. Tomás Anzano</denomincion>
+        <direccion>1</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 75 37 18</telefono>
+        <correoElectronico>administracion@lasallesantoangel.es</correoElectronico>
+        <codigoPostal>http://www.lasalle.es/lasallesaz</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007856</codigo>
+        <denomCorta>OBRA DIOCESANA SANTO DOMINGO DE SILOS</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Amistad</denomincion>
+        <direccion> 6</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 42 49 47</telefono>
+        <correoElectronico>odsds@planalfa.es</correoElectronico>
+        <codigoPostal>http://www.educasilos.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zuera</localidad>
+        <codigo>50008617</codigo>
+        <denomCorta>SAN GABRIEL</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. San Gabriel</denomincion>
+        <direccion>  S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 68 00 44</telefono>
+        <correoElectronico>direccion@sangabriel.es</correoElectronico>
+        <codigoPostal>http://www.sangabriel.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Sabiñánigo</localidad>
+        <codigo>22003902</codigo>
+        <denomCorta>SAN ALBERTO MAGNO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Paseo de la Corona nº 2</denomincion>
+        <direccion>Publico</direccion>
+        <naturaleza>974 48 01 79</naturaleza>
+        <telefono>iesamsabinanigo@educa.aragon.es</telefono>
+        <correoElectronico>http://iesamsab.educa.aragon.es</correoElectronico>
+        <codigoPostal>22600</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Barbastro</localidad>
+        <codigo>22004611</codigo>
+        <denomCorta>MARTÍNEZ VARGAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cami.  De La Boquera</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 31 02 94</telefono>
+        <correoElectronico>iesmvbarbastro@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesmv.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Jaca</localidad>
+        <codigo>22005765</codigo>
+        <denomCorta>PIRINEOS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Ferrocarril</denomincion>
+        <direccion> 17</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 35 58 57</telefono>
+        <correoElectronico>iespijaca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iespijac.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Jaca</localidad>
+        <codigo>22002703</codigo>
+        <denomCorta>ESCUELAS PÍAS</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Avda. Perimetral</denomincion>
+        <direccion> 2</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>974 36 03 92</telefono>
+        <correoElectronico>joseignaciobilbao@escolapiosemaus.org</correoElectronico>
+        <codigoPostal>http://www.escolapiosjaca.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Jaca</localidad>
+        <codigo>22002740</codigo>
+        <denomCorta>INSTITUTO DE FORMACIÓN AGROAMBIENTAL</denomCorta>
+        <nombre>Escuela de Capacitación Agraria</nombre>
+        <denomincion>CTRA. JACA-PAMPLONA</denomincion>
+        <direccion> KM. 7</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 35 68 19</telefono>
+        <correoElectronico>ifaja@aragon.es</correoElectronico>
+        <codigoPostal>http://www.ifajaca.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Calatayud</localidad>
+        <codigo>50001167</codigo>
+        <denomCorta>LEONARDO DE CHABACIER</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º San Nicolás De Francia</denomincion>
+        <direccion> 10</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 88 10 15</telefono>
+        <correoElectronico>ieslchcalatayud@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesprcal.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Sabiñánigo</localidad>
+        <codigo>22004891</codigo>
+        <denomCorta>BIELLO ARAGÓN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Derechos Humanos</denomincion>
+        <direccion> 5</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 48 26 82</telefono>
+        <correoElectronico>iesbasabinanigo@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesbasab.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Binéfar</localidad>
+        <codigo>22005388</codigo>
+        <denomCorta>SIERRA DE SAN QUÍLEZ</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>PZA. HIPÓLITO BITRIÁN</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 42 82 95</telefono>
+        <correoElectronico>iesbinefar@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesbinefar.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Tamarite de Litera</localidad>
+        <codigo>22005391</codigo>
+        <denomCorta>LA LLITERA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Camino La Colomina s/n</denomincion>
+        <direccion>Publico</direccion>
+        <naturaleza>974 42 03 60</naturaleza>
+        <telefono>iestamarite@educa.aragon.es</telefono>
+        <correoElectronico>http://www.ieslallitera.com</correoElectronico>
+        <codigoPostal>22550</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Aínsa</localidad>
+        <codigo>22005406</codigo>
+        <denomCorta>SOBRARBE</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Lucien Briet</denomincion>
+        <direccion>  S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 50 00 56</telefono>
+        <correoElectronico>iesainsa@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesainsa.educa.aragon.es/wordpress/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003235</codigo>
+        <denomCorta>VEGA DEL TURIA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Victor Pruneda</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 26 44</telefono>
+        <correoElectronico>iesvtteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesvegadelturia.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011781</codigo>
+        <denomCorta>VALLE DE TENA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>P.º  Isabel La Católica</denomincion>
+        <direccion> 5-7</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 55 03 65</telefono>
+        <correoElectronico>secretaria@fpvalledetena.com</correoElectronico>
+        <codigoPostal>http://fpvalledetena.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50017096</codigo>
+        <denomCorta>ARSENIO JIMENO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Eduardo Jimeno Correas</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 70 05 00</telefono>
+        <correoElectronico>info@centroformacion.ugt.org</correoElectronico>
+        <codigoPostal>http://arseniojimenofp.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Valderrobres</localidad>
+        <codigo>44004598</codigo>
+        <denomCorta>MATARRAÑA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Gral. Gutiérrez Mellado</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 85 06 47</telefono>
+        <correoElectronico>iesvalderrobres@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesvalderrobres.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Monreal del Campo</localidad>
+        <codigo>44004665</codigo>
+        <denomCorta>SALVADOR VICTORIA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. María Moliner</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 86 35 11</telefono>
+        <correoElectronico>iesmonreal@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesmonre.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007728</codigo>
+        <denomCorta>SAN VICENTE DE PAÚL</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. San Vicente De Paúl</denomincion>
+        <direccion> 31</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 29 15 25</telefono>
+        <correoElectronico>direccion@paulaszaragoza.com</correoElectronico>
+        <codigoPostal>http://www.paulaszaragoza.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50008460</codigo>
+        <denomCorta>LUIS BUÑUEL</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. Sierra Vicor</denomincion>
+        <direccion> 20</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 44 00 28</telefono>
+        <correoElectronico>ieslbuzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ieslbuza.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Cariñena</localidad>
+        <codigo>50001349</codigo>
+        <denomCorta>JOAQUÍN COSTA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del Ejército</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 62 01 20</telefono>
+        <correoElectronico>iescarinena@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iescarinena.catedu.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003247</codigo>
+        <denomCorta>FRANCÉS DE ARANDA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. ATARAZANAS</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 25 42</telefono>
+        <correoElectronico>iesfrateruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://e-ducativa.catedu.es/44003247</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Calatayud</localidad>
+        <codigo>50001179</codigo>
+        <denomCorta>EMILIO JIMENO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Río Perejiles</denomincion>
+        <direccion> 2</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 881 009</telefono>
+        <correoElectronico>iesejcalatayud@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.emiliojimeno.edu.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011793</codigo>
+        <denomCorta>ARTE-MISS ZARAGOZA</denomCorta>
+        <nombre> CENTRO 1</nombre>
+        <denomincion>Centro Privado de Formación Profesional Específica</denomincion>
+        <direccion>Cl. Padre Manjón</direccion>
+        <naturaleza> 38-40</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>976 33 11 88</correoElectronico>
+        <codigoPostal>educacion@arte-miss.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Barbastro</localidad>
+        <codigo>22000809</codigo>
+        <denomCorta>HERMANOS ARGENSOLA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del Cinca</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 31 17 38</telefono>
+        <correoElectronico>ieshabarbastro@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ieshabar.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44010011</codigo>
+        <denomCorta>ESCUELA DE HOSTELERÍA Y TURISMO DE TERUEL</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Mariano Muñoz Nogués</denomincion>
+        <direccion> 11-13</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 01 35</telefono>
+        <correoElectronico>esuhosteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.educa.aragob.es/eshoster/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007236</codigo>
+        <denomCorta>SALESIANO NTRA. SRA.DEL PILAR</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. María Auxiliadora</denomincion>
+        <direccion> 57</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 30 68 78</telefono>
+        <correoElectronico>secretaria.zaragoza@salesianos.edu</correoElectronico>
+        <codigoPostal>http://zaragoza.salesianos.edu/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007716</codigo>
+        <denomCorta>SAN VALERO</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>Cl. Violeta Parra</denomincion>
+        <direccion> 9</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 46 65 99</telefono>
+        <correoElectronico>infoces@svalero.es</correoElectronico>
+        <codigoPostal>http://www.sanvalero.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006888</codigo>
+        <denomCorta>INMACULADA CONCEPCIÓN</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Concepción</denomincion>
+        <direccion> 8-10</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 41 63 14</telefono>
+        <correoElectronico>cinmaculadazgz@telefonica.net</correoElectronico>
+        <codigoPostal>http://www.colegioinmaculadaconcepcionz.net</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zuera</localidad>
+        <codigo>50008629</codigo>
+        <denomCorta>E.F.A. EL SALTO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Ctra. de Huesca</denomincion>
+        <direccion> N. 330</direccion>
+        <naturaleza> Km. 529</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>976 68 03 70</correoElectronico>
+        <codigoPostal>elsalto@efasdearagon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50008642</codigo>
+        <denomCorta>MARÍA MOLINER</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. San Vicente Ferrer</denomincion>
+        <direccion> 6</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 33 18 03</telefono>
+        <correoElectronico>iesmmozaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ies-mariamoliner.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50008654</codigo>
+        <denomCorta>CEFOR IZQUIERDO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Avda. Tenor Fleta</denomincion>
+        <direccion> 57 (Pasaje)</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 48 62 71</telefono>
+        <correoElectronico>ciclos@izquierdofp.es</correoElectronico>
+        <codigoPostal>http://www.izquierdofp.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Tauste</localidad>
+        <codigo>50008770</codigo>
+        <denomCorta>RÍO ARBA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del Pilar</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 85 40 20</telefono>
+        <correoElectronico>iestauste@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesrioarba.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Ejea de los Caballeros</localidad>
+        <codigo>50009129</codigo>
+        <denomCorta>CINCO VILLAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º DE LA CONSTITUCIÓN</denomincion>
+        <direccion> 122-124-126</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 66 00 08</telefono>
+        <correoElectronico>iescvejea@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iescincovillas.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50017503</codigo>
+        <denomCorta>OCÉANO ATLÁNTICO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Avda. Ranillas</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza> edificio 3D</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>976 10 64 51</correoElectronico>
+        <codigoPostal>info@oceanoatlantico.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019767</codigo>
+        <denomCorta>CESUR ZARAGOZA</denomCorta>
+        <nombre>Centro Privado Integrado de Formación Profesional</nombre>
+        <denomincion>Avenida de Ranillas</denomincion>
+        <direccion> número 5C</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>876 25 98 24 </telefono>
+        <correoElectronico>cesurzaragoza@cesurformacion.com</correoElectronico>
+        <codigoPostal>http://www.cesurformacion.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50009348</codigo>
+        <denomCorta>AVEMPACE</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Islas Canarias</denomincion>
+        <direccion> 5</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 51 86 66</telefono>
+        <correoElectronico>iesavempace@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.avempace.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Fuentes de Ebro</localidad>
+        <codigo>50009543</codigo>
+        <denomCorta>BENJAMÍN JARNÉS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Agustina De Aragón</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 16 08 87</telefono>
+        <correoElectronico>iesfuentes@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesfuent.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50009567</codigo>
+        <denomCorta>RÍO GÁLLEGO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Río Piedra</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 58 81 70</telefono>
+        <correoElectronico>iesrgazaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.riogallego.com/html/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zuera</localidad>
+        <codigo>50009592</codigo>
+        <denomCorta>GALLICUM</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cami. De San Juan</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 68 03 41</telefono>
+        <correoElectronico>ieszuera@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.gallicum.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50009889</codigo>
+        <denomCorta>ACADEMIA MARCO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Conde De Aranda</denomincion>
+        <direccion> 7-9</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 44 16 99</telefono>
+        <correoElectronico>info@academiamarco.com</correoElectronico>
+        <codigoPostal>http://www.academiamarco.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Utebo</localidad>
+        <codigo>50010041</codigo>
+        <denomCorta>PEDRO CERRADA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Las Fuentes</denomincion>
+        <direccion> 14</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 77 42 55</telefono>
+        <correoElectronico>iesutebo@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesutebo.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010144</codigo>
+        <denomCorta>PABLO SERRANO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. BATALLA DE LEPANTO</denomincion>
+        <direccion> 30</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 49 10 15</telefono>
+        <correoElectronico>iespsezaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iespabloserrano.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22010153</codigo>
+        <denomCorta>ARTE-MISS HUESCA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Alcalde Carderera</denomincion>
+        <direccion> 3</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>974 21 53 21</telefono>
+        <correoElectronico>educacion@arte-miss.com</correoElectronico>
+        <codigoPostal>http://www.arte-miss.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>San Blas</localidad>
+        <codigo>44003028</codigo>
+        <denomCorta>DE SAN BLAS</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Bo. San Blas</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 61 88 20</telefono>
+        <correoElectronico>ifpeteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ifpesanblas.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003211</codigo>
+        <denomCorta>SANTA EMERENCIANA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. Juez Villanueva</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 62 05 64</telefono>
+        <correoElectronico>iessemteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.ies.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003223</codigo>
+        <denomCorta>SEGUNDO DE CHOMÓN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. PABLO MONGUIÓ</denomincion>
+        <direccion> 48</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 13 21</telefono>
+        <correoElectronico>iesschteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesch.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Caspe</localidad>
+        <codigo>50011732</codigo>
+        <denomCorta>MAR DE ARAGÓN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. JOSÉ  MARÍA  ALBAREDA</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 63 02 08</telefono>
+        <correoElectronico>iescaspe@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesmardearagon.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22002491</codigo>
+        <denomCorta>MONTEARAGÓN</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Ctra. De Sariñena</denomincion>
+        <direccion>  Km. 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 24 26 73</telefono>
+        <correoElectronico>cpifpmontearagon@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://cpifpmontearagon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22002508</codigo>
+        <denomCorta>RAMÓN Y CAJAL</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. De La Paz</denomincion>
+        <direccion>  9</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 22 04 36</telefono>
+        <correoElectronico>iesrychuesca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesrychu.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22002521</codigo>
+        <denomCorta>SIERRA DE GUARA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Ramón J. Sender</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 24 34 77</telefono>
+        <correoElectronico>iessguhuesca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iessierradeguara.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50005513</codigo>
+        <denomCorta>SAGRADA FAMILIA</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>P.º Infantes De España</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 56 01 25</telefono>
+        <correoElectronico>sfamilia@csafa.com</correoElectronico>
+        <codigoPostal>http://www.Colegiosagradafamilia.Com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Tarazona</localidad>
+        <codigo>50011513</codigo>
+        <denomCorta>TUBALCAÍN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. La Paz</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 64 29 15</telefono>
+        <correoElectronico>iestarazona@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iestubalcain.net</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011525</codigo>
+        <denomCorta>MIGUEL CATALÁN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º Isabel La Católica</denomincion>
+        <direccion> 3</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 40 20 04</telefono>
+        <correoElectronico>iesmcazaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.ies-mcatalan.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011574</codigo>
+        <denomCorta>CPA-SALDUIE</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>AVDA. RAMÓN SAÍNZ DE VARANDA 1-3</denomincion>
+        <direccion>Privado</direccion>
+        <naturaleza>976 52 27 41</naturaleza>
+        <telefono>info@cpasalduie.com</telefono>
+        <correoElectronico>http://www.cpasalduie.com</correoElectronico>
+        <codigoPostal>50009</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006414</codigo>
+        <denomCorta>VIRGEN DEL PILAR</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º Reyes De Aragón</denomincion>
+        <direccion> 20</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 30 60 09</telefono>
+        <correoElectronico>iesvdpzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesvirgendelpilar.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006529</codigo>
+        <denomCorta>EL BUEN PASTOR</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Monzón</denomincion>
+        <direccion> 27</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 27 37 62</telefono>
+        <correoElectronico>secretaria@elbuenpastorzaragoza.net</correoElectronico>
+        <codigoPostal>http://www.elbuenpastorzaragoza.net</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50006581</codigo>
+        <denomCorta>COLEGIO MONTESSORI</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Lagasca</denomincion>
+        <direccion> 25-27</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 30 61 00</telefono>
+        <correoElectronico>administracion@colegiomontessori.com</correoElectronico>
+        <codigoPostal>http://colegiomontessori.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Almunia de Doña Godina (La)</localidad>
+        <codigo>50000412</codigo>
+        <denomCorta>SALESIANOS LAVIAGA-CASTILLO</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>Cl. María Auxiliadora</denomincion>
+        <direccion> 12</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 81 24 20</telefono>
+        <correoElectronico>secretaria.laalmunia@salesianos.edu</correoElectronico>
+        <codigoPostal>http://www.salesianos.edu/laalmunia</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Borja</localidad>
+        <codigo>50000874</codigo>
+        <denomCorta>JUAN DE LANUZA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Capuchinos</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 86 73 68</telefono>
+        <correoElectronico>iesborja@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesjuandelanuza.catedu.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Fraga</localidad>
+        <codigo>22004888</codigo>
+        <denomCorta>BAJO CINCA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Río Cinca</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 45 38 60</telefono>
+        <correoElectronico>iesbcfraga@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://e-ducativa.catedu.es/22004888</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Puebla de Alfindén (La)</localidad>
+        <codigo>50018842</codigo>
+        <denomCorta>LA PUEBLA DE ALFINDÉN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. de Pastriz 2</denomincion>
+        <direccion>Publico</direccion>
+        <naturaleza>976 10 76 02</naturaleza>
+        <telefono>ieslapuebla@educa.aragon.es</telefono>
+        <correoElectronico>https://ieslapuebladealfinden.wordpress.com/</correoElectronico>
+        <codigoPostal>50171</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50018829</codigo>
+        <denomCorta>CORONA DE ARAGÓN</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Corona de Aragón</denomincion>
+        <direccion> 35</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 467 000</telefono>
+        <correoElectronico>cpifpcorona@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpicorona.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22010712</codigo>
+        <denomCorta>PIRÁMIDE</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>CAMI. DE CUARTE</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 21 01 02</telefono>
+        <correoElectronico>cpifppiramide@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpifppiramide.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Alcañiz</localidad>
+        <codigo>44010537</codigo>
+        <denomCorta>BAJO ARAGÓN</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>CL. José Pardo Sastrón</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 83 10 63</telefono>
+        <correoElectronico>cpifpbajoaragon@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpifpbajoaragon.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50018556</codigo>
+        <denomCorta>LUIS MANUEL GARCÍA URREA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>CL. LAGASCA</denomincion>
+        <direccion> 25-27</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 30 61 00</telefono>
+        <correoElectronico>administracion@montessorifp.com</correoElectronico>
+        <codigoPostal>https://www.montessorifp.com/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Villanueva de Gállego</localidad>
+        <codigo>50019147</codigo>
+        <denomCorta>FUNDACIÓN LABORAL DE LA CONSTRUCCIÓN</denomCorta>
+        <nombre>Centro Privado Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Isaac Newton</denomincion>
+        <direccion> 1 - Parcela 15</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 74 06 26</telefono>
+        <correoElectronico>lvillaluenga@fundacionlaboral.org</correoElectronico>
+        <codigoPostal>https://fp.fundacionlaboral.org/centros/aragon</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Calatayud</localidad>
+        <codigo>50001180</codigo>
+        <denomCorta>ACADEMIA DE LOGÍSTICA DEL EJÉRCITO DE TIERRA</denomCorta>
+        <nombre>Centro Docente de Formación Militar </nombre>
+        <denomincion>AVDA. DE LAS FUERZAS ARMADAS</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>876 63 30 00</telefono>
+        <correoElectronico>alogisticacalatayud@educa.aragon.es</correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019640</codigo>
+        <denomCorta>FORMACCIONA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>CL. ASÍN Y PALACIOS</denomincion>
+        <direccion> 18</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976249622</telefono>
+        <correoElectronico>info@formacciona.com</correoElectronico>
+        <codigoPostal>http://www.formacciona.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Utrillas</localidad>
+        <codigo>44004550</codigo>
+        <denomCorta>FERNANDO LÁZARO CARRETER</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Miguel Servet</denomincion>
+        <direccion> 3</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 75 80 50</telefono>
+        <correoElectronico>iesutrillas@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesutril.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Andorra</localidad>
+        <codigo>44004653</codigo>
+        <denomCorta>PABLO SERRANO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. HERMANAS ZAPATA</denomincion>
+        <direccion>  8</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 84 21 62</telefono>
+        <correoElectronico>iesandorra@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesandorra.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019482</codigo>
+        <denomCorta>ARTE-MISS ZARAGOZA</denomCorta>
+        <nombre> CENTRO 2</nombre>
+        <denomincion>Centro Privado de Formación Profesional Específica</denomincion>
+        <direccion>C/ Gran Vía</direccion>
+        <naturaleza> 22</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico></correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50019974</codigo>
+        <denomCorta>MEDAC ZARAGOZA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional</nombre>
+        <denomincion> Calle Eduardo Jimeno Correas</denomincion>
+        <direccion> número 19.</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>876500761</telefono>
+        <correoElectronico>zaragoza@medac.es</correoElectronico>
+        <codigoPostal>http://www.medac.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50020034</codigo>
+        <denomCorta>CENTRO SUPERIOR DE ESTUDIOS SANITARIOS OCÉANO ATLÁNTICO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Plaza Emperador Carlos V</denomincion>
+        <direccion> número 8.</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono></telefono>
+        <correoElectronico></correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Barbastro</localidad>
+        <codigo>22011133</codigo>
+        <denomCorta>STOP FORMACIÓN</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Carretera de Graus</denomincion>
+        <direccion> km. 0</direccion>
+        <naturaleza>6</naturaleza>
+        <telefono>Privado</telefono>
+        <correoElectronico>974 31 41 29</correoElectronico>
+        <codigoPostal>autoescuelas.stop@gmail.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50020162</codigo>
+        <denomCorta>EDUCATRAFIC DELICIAS</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Avenida de Madrid</denomincion>
+        <direccion> número 263</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>660 020 268</telefono>
+        <correoElectronico>gradosuperior@fpeduca.com</correoElectronico>
+        <codigoPostal>https://educatrafic.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50020095</codigo>
+        <denomCorta>MEDAC EL OLIVAR</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Calle Argualas</denomincion>
+        <direccion> número 50</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono></telefono>
+        <correoElectronico></correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Huesca</localidad>
+        <codigo>22005121</codigo>
+        <denomCorta>SAN LORENZO</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Madrid</denomincion>
+        <direccion> 2</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 24 36 33</telefono>
+        <correoElectronico>cpifpsanlorenzo@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.escuelahosteleria.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Pina de Ebro</localidad>
+        <codigo>50003838</codigo>
+        <denomCorta>SANTA MARÍA DE LA ESPERANZA</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Rosales</denomincion>
+        <direccion> 2</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 16 50 47</telefono>
+        <correoElectronico>smesperanzape@planalfa.es</correoElectronico>
+        <codigoPostal>http://www.fundacionxafer.org/STA-MARIA-ESPERANZA/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Monzón</localidad>
+        <codigo>22003239</codigo>
+        <denomCorta>SANTO DOMINGO SAVIO</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>P.º SAN JUAN BOSCO</denomincion>
+        <direccion> 83-85</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>974 41 68 88</telefono>
+        <correoElectronico>colegio.monzon@salesianos.org</correoElectronico>
+        <codigoPostal></codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Monzón</localidad>
+        <codigo>22003288</codigo>
+        <denomCorta>JOSÉ MOR DE FUENTES</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del  Pueyo</denomincion>
+        <direccion> 89</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 40 16 30</telefono>
+        <correoElectronico>iesmonzon@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesmordefuentes.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010314</codigo>
+        <denomCorta>LOS ENLACES</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Cl. Jarque De Moncayo</denomincion>
+        <direccion> 10</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 30 08 04</telefono>
+        <correoElectronico>cpilosenlaces@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.cpilosenlaces.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Pinseque</localidad>
+        <codigo>50003863</codigo>
+        <denomCorta>E.F.A. LA NORIA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>CL. PUENTE JUBO</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 61 71 55</telefono>
+        <correoElectronico>lanoria@efasdearagon.org</correoElectronico>
+        <codigoPostal>http://www.efasdearagon.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Movera</localidad>
+        <codigo>50005690</codigo>
+        <denomCorta>DE MOVERA</denomCorta>
+        <nombre>Centro Público Integrado de Formación Profesional</nombre>
+        <denomincion>Ctra. Pastriz</denomincion>
+        <direccion> Km. 3</direccion>
+        <naturaleza>6</naturaleza>
+        <telefono>Publico</telefono>
+        <correoElectronico>976 58 62 84</correoElectronico>
+        <codigoPostal>cpifpmovera@educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010156</codigo>
+        <denomCorta>MIRALBUENO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Vistabella</denomincion>
+        <direccion> 8</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 33 04 50</telefono>
+        <correoElectronico>iesmirzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesmiralbueno.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010491</codigo>
+        <denomCorta>SANTIAGO HERNÁNDEZ</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. De Navarra</denomincion>
+        <direccion> 141</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 32 42 00</telefono>
+        <correoElectronico>iesshezaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iessantiagohernandez.com/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010511</codigo>
+        <denomCorta>TIEMPOS MODERNOS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. CINEASTA SEGUNDO DE CHOMÓN</denomincion>
+        <direccion> 4</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 52 53 02</telefono>
+        <correoElectronico>iestiemposmodernos@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iestiemposmodernos.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Almunia de Doña Godina (La)</localidad>
+        <codigo>50010533</codigo>
+        <denomCorta>CABAÑAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Carrera De La Hilera</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 81 24 80</telefono>
+        <correoElectronico>iesalmunia@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesalmun.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010739</codigo>
+        <denomCorta>PILAR LORENGAR</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Miguel Asso</denomincion>
+        <direccion> 5</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 47 59 66</telefono>
+        <correoElectronico>iesplozaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iespilarlorengar.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50010946</codigo>
+        <denomCorta>ANDALÁN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. París</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 28 19 43</telefono>
+        <correoElectronico>iesandzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesandza.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Épila</localidad>
+        <codigo>50011008</codigo>
+        <denomCorta>RODANAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. De La Estación</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 81 70 90</telefono>
+        <correoElectronico>iesepila@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesepila.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Pedrola</localidad>
+        <codigo>50011070</codigo>
+        <denomCorta>SIGLO XXI</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Virgen Del Pilar</denomincion>
+        <direccion>  S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 61 91 31</telefono>
+        <correoElectronico>iespedrola@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iespedro.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50005793</codigo>
+        <denomCorta>ÍTACA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda de los Estudiantes</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 57 24 26</telefono>
+        <correoElectronico>iesitazaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.e-itaca.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Ejea de los Caballeros</localidad>
+        <codigo>50001829</codigo>
+        <denomCorta>E.F.A. BOALARES</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Carretera A-127</denomincion>
+        <direccion> km 37</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 66 14 56</telefono>
+        <correoElectronico>boalares@efasdearagon.es</correoElectronico>
+        <codigoPostal>http://www.efasdearagon.org</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Ejea de los Caballeros</localidad>
+        <codigo>50001830</codigo>
+        <denomCorta>REYES CATÓLICOS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. MARIANO ALASTUEY</denomincion>
+        <direccion> 26</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 66 06 45</telefono>
+        <correoElectronico>iesrcejea@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesreyescatolicos.catedu.es/</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007017</codigo>
+        <denomCorta>MARÍA AUXILIADORA</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Mornés</denomincion>
+        <direccion> 14</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 27 27 50</telefono>
+        <correoElectronico>titularzaragoza@salesianas.org</correoElectronico>
+        <codigoPostal>http://www.mazaragoza.salesianas.net</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007492</codigo>
+        <denomCorta>LA SALLE-SANTO ANGEL</denomCorta>
+        <nombre>Centro Privado de Educación Secundaria</nombre>
+        <denomincion>Cl. Tomás Anzano</denomincion>
+        <direccion>1</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 75 37 18</telefono>
+        <correoElectronico>administracion@lasallesantoangel.es</correoElectronico>
+        <codigoPostal>http://www.lasalle.es/lasallesaz</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50007856</codigo>
+        <denomCorta>OBRA DIOCESANA SANTO DOMINGO DE SILOS</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. Amistad</denomincion>
+        <direccion> 6</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 42 49 47</telefono>
+        <correoElectronico>odsds@planalfa.es</correoElectronico>
+        <codigoPostal>http://www.educasilos.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zuera</localidad>
+        <codigo>50008617</codigo>
+        <denomCorta>SAN GABRIEL</denomCorta>
+        <nombre>Centro Privado de Educación Infantil Primaria y Secundaria</nombre>
+        <denomincion>Cl. San Gabriel</denomincion>
+        <direccion>  S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 68 00 44</telefono>
+        <correoElectronico>direccion@sangabriel.es</correoElectronico>
+        <codigoPostal>http://www.sangabriel.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Sabiñánigo</localidad>
+        <codigo>22003902</codigo>
+        <denomCorta>SAN ALBERTO MAGNO</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Paseo de la Corona nº 2</denomincion>
+        <direccion>Publico</direccion>
+        <naturaleza>974 48 01 79</naturaleza>
+        <telefono>iesamsabinanigo@educa.aragon.es</telefono>
+        <correoElectronico>http://iesamsab.educa.aragon.es</correoElectronico>
+        <codigoPostal>22600</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Barbastro</localidad>
+        <codigo>22004611</codigo>
+        <denomCorta>MARTÍNEZ VARGAS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cami.  De La Boquera</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 31 02 94</telefono>
+        <correoElectronico>iesmvbarbastro@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesmv.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Jaca</localidad>
+        <codigo>22005765</codigo>
+        <denomCorta>PIRINEOS</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Ferrocarril</denomincion>
+        <direccion> 17</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 35 58 57</telefono>
+        <correoElectronico>iespijaca@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iespijac.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Jaca</localidad>
+        <codigo>22002740</codigo>
+        <denomCorta>INSTITUTO DE FORMACIÓN AGROAMBIENTAL</denomCorta>
+        <nombre>Escuela de Capacitación Agraria</nombre>
+        <denomincion>CTRA. JACA-PAMPLONA</denomincion>
+        <direccion> KM. 7</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 35 68 19</telefono>
+        <correoElectronico>ifaja@aragon.es</correoElectronico>
+        <codigoPostal>http://www.ifajaca.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Calatayud</localidad>
+        <codigo>50001167</codigo>
+        <denomCorta>LEONARDO DE CHABACIER</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>P.º San Nicolás De Francia</denomincion>
+        <direccion> 10</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 88 10 15</telefono>
+        <correoElectronico>ieslchcalatayud@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesprcal.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Sabiñánigo</localidad>
+        <codigo>22004891</codigo>
+        <denomCorta>BIELLO ARAGÓN</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Derechos Humanos</denomincion>
+        <direccion> 5</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 48 26 82</telefono>
+        <correoElectronico>iesbasabinanigo@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iesbasab.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Binéfar</localidad>
+        <codigo>22005388</codigo>
+        <denomCorta>SIERRA DE SAN QUÍLEZ</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>PZA. HIPÓLITO BITRIÁN</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>974 42 82 95</telefono>
+        <correoElectronico>iesbinefar@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesbinefar.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Huesca</provincia>
+        <localidad>Tamarite de Litera</localidad>
+        <codigo>22005391</codigo>
+        <denomCorta>LA LLITERA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Camino La Colomina s/n</denomincion>
+        <direccion>Publico</direccion>
+        <naturaleza>974 42 03 60</naturaleza>
+        <telefono>iestamarite@educa.aragon.es</telefono>
+        <correoElectronico>http://www.ieslallitera.com</correoElectronico>
+        <codigoPostal>22550</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Teruel</provincia>
+        <localidad>Teruel</localidad>
+        <codigo>44003235</codigo>
+        <denomCorta>VEGA DEL TURIA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Cl. Victor Pruneda</denomincion>
+        <direccion> 1</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>978 60 26 44</telefono>
+        <correoElectronico>iesvtteruel@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://www.iesvegadelturia.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50011781</codigo>
+        <denomCorta>VALLE DE TENA</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>P.º  Isabel La Católica</denomincion>
+        <direccion> 5-7</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 55 03 65</telefono>
+        <correoElectronico>secretaria@fpvalledetena.com</correoElectronico>
+        <codigoPostal>http://fpvalledetena.com</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50017096</codigo>
+        <denomCorta>ARSENIO JIMENO</denomCorta>
+        <nombre>Centro Privado de Formación Profesional Específica</nombre>
+        <denomincion>Cl. Eduardo Jimeno Correas</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Privado</naturaleza>
+        <telefono>976 70 05 00</telefono>
+        <correoElectronico>info@centroformacion.ugt.org</correoElectronico>
+        <codigoPostal>http://arseniojimenofp.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Zaragoza</localidad>
+        <codigo>50008460</codigo>
+        <denomCorta>LUIS BUÑUEL</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>CL. Sierra Vicor</denomincion>
+        <direccion> 20</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 44 00 28</telefono>
+        <correoElectronico>ieslbuzaragoza@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://ieslbuza.educa.aragon.es</codigoPostal>
+    </centros>
+    <centros>
+        <distancia>0.0</distancia>
+        <provincia>Zaragoza</provincia>
+        <localidad>Cariñena</localidad>
+        <codigo>50001349</codigo>
+        <denomCorta>JOAQUÍN COSTA</denomCorta>
+        <nombre>Instituto de Educación Secundaria</nombre>
+        <denomincion>Avda. Del Ejército</denomincion>
+        <direccion> S/N</direccion>
+        <naturaleza>Publico</naturaleza>
+        <telefono>976 62 01 20</telefono>
+        <correoElectronico>iescarinena@educa.aragon.es</correoElectronico>
+        <codigoPostal>http://iescarinena.catedu.es</codigoPostal>
+    </centros>
+</centros>
