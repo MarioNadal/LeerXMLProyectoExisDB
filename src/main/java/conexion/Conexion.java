@@ -22,6 +22,7 @@ import java.util.regex.PatternSyntaxException;
 
 
 public class Conexion {
+    //clase
     public static void conexion() throws XMLDBException {
         String driver = "org.exist.xmldb.DatabaseImpl";
         Collection collection = null;
